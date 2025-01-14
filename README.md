@@ -29,14 +29,15 @@ I work with a variety of technologies including:
 ---
 
 🌟 ## Key Projects
-[Note: Visit my portfolio website for Project Demo]
+Note: [Visit my portfolio website for Project Demo]
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://its-ajit-folio.netlify.app/)
 
-🚀 **Weather Tracker** - A weather tracker application to check current weather conditions and forecasts for any city around the world.
-💻 **The Moviesflix** - Movie search website supporting 150+ titles, featuring a 2s average query response time throug optimized algorithms.
-🌐 **Typing Speed Test** - Typing Speed Test application capable of processing 1,000+ keystrokes per minute with 99.9% accuracy.
-🚀 **Quiz Web Application** - This application is ideal for educational purposes, corporate training, or casual knowledge-sharing.
-🚀 **Nomzo - An ongoing project** - This app bridges the gap between customers and food providers, ensuring fast, reliable, and delightful dining experiences, whether at home or on the go.
-
+- 🚀 **Weather Tracker** - A weather tracker application to check current weather conditions and forecasts for any city around the world.
+- 💻 **The Moviesflix** - Movie search website supporting 150+ titles, featuring a 2s average query response time through optimized algorithms.
+- 🌐 **Typing Speed Test** - Typing Speed Test application capable of processing 1,000+ keystrokes per minute with 99.9% accuracy.
+- 🚀 **Quiz Web Application** - This application is ideal for educational purposes, corporate training, or casual knowledge-sharing.
+- 🚀 **Nomzo - An ongoing project** - This app bridges the gap between customers and food providers, ensuring fast, reliable, and delightful dining experiences, whether at home or on the go.
+  
 - ## 🔗 Connect with Me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://its-ajit-folio.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajit-kamath-82052624a/)
