@@ -7,6 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ajitinfotech28@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/ajit3643)](https://github.com/ajit3643)
 [![Github](https://img.shields.io/github/followers/ajit3643?label=Follow&style=social)](https://github.com/ajit3643)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fajit3643&labelColor=%2337d67a&countColor=%23555555)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fajit3643)
 
 🚀 I'm glad to see you here! I'm Ajit Kumar, a passionate Full-Stack Developer with expertise in building modern web applications. I combine my technical skills with a deep commitment to creating efficient and impactful web solutions.
 - 💻 Owner of [**Portfolio**](https://its-ajit-folio.netlify.app/) its Ajit folio. Check it out for more details.
