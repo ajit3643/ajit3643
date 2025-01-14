@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/ajit-kamath-82052624a//)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/https://www.instagram.com/im_ajit28//)](https://www.instagram.com/https://www.instagram.com/im_ajit28/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ajitinfotech28@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/ajit3643)](https://github.com/ajit3643)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fits-ajit-folio.netlify.app%2F)
 [![Github](https://img.shields.io/github/followers/ajit3643?label=Follow&style=social)](https://github.com/ajit3643)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fajit3643&labelColor=%2337d67a&countColor=%23555555)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fajit3643)
 
