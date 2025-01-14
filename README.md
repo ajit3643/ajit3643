@@ -108,8 +108,9 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/ajit3643/ajit3643/output/snake.svg" alt="Snake animation" />
 
 ###
-
 
