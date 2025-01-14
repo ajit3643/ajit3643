@@ -1,63 +1,44 @@
-## Bonjour! I'm Ajit 👋
+<h1 align="center">Bonjour! I'm Ajit 👋</h1>
+<h3 align="center">Glad to see you here! I'm Ajit Kumar, a passionate Full Stack Developer with expertise in building modern web applications. I combine my technical skills with a deep commitment to creating efficient and impactful web solutions.</h3>
 
-Glad to see you here! I'm Ajit Kumar, a passionate Full Stack Developer with expertise in building modern web applications. I combine my technical skills with a deep commitment to creating efficient and impactful web solutions.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajit3643&label=Profile%20views&color=0e75b6&style=flat" alt="ajit3643" /> </p>
 
-# Here's a bit about me:
-I have completed a Master’s in Computer Applications from Amity University, Noida, and am seeking opportunities to leverage expertise in building intuitive and impactful web solutions. Currently working as a Full Stack Developer, I specialize in building end-to-end web applications using modern technologies and best practices. My expertise spans both frontend and backend development.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajit3643" alt="ajit3643" /></a> </p>
 
----
+- 🔭 I’m currently working on [Nomzo - An ongoing project](https://nomzo.netlify.app/)
 
-## Table of Contents
-- [🚀 About Me](#about-me)
-- [🛠️ Tech Stack](#tech-stack)
-- [🌟 Key Projects](#key-projects)
-- [🔗 Connect with Me](#connect-with-me)
-- [📜 License](#license)
+- 🌱 I’m currently learning **React.js**
 
----
+- 👯 I’m looking to collaborate on **Netflix GPT**
 
-## 🚀 About Me
-- 🔭 **Currently Working On:** Building scalable web applications with React.js and Java + Spring Boot
-- 🌱 **Learning:** Always expanding my skills in cloud technologies and UI/UX design
-- 👯 **Open to Collaborate On:** Exciting full-stack projects and innovative web applications
-- 💬 **Ask Me About:** React.js, Java, Spring Boot, REST APIs, and best practices in web development
-- 🎯 **Goal:** To create impactful software solutions that enhance user experiences
+- 🤝 I’m looking for help with **Youtube**
 
----
+- 👨‍💻 All of my projects are available at [https://its-ajit-folio.netlify.app/](https://its-ajit-folio.netlify.app/)
 
-## 🛠️ Tech Stack
-I work with a variety of technologies including:
+- 💬 Ask me about **React, JavaScript, Java, Database**
 
-- **Frontend:** React.js, HTML, CSS, JavaScript
-- **Backend:** Java, Spring Boot
-- **Database:** MySQL, PostgreSQL, MongoDB
-- **Cloud & Tools:** AWS, Docker, Git
-- **Others:** DSA, System Design, OS, Unix
+- 📫 How to reach me **ajitinfotech28@gmail.com**
 
----
+- 📄 Know about my experiences [https://drive.google.com/file/d/125zZh8IdnQPFrBhBm44lMfrMYMpX7_W4/view?usp=drive_link](https://drive.google.com/file/d/125zZh8IdnQPFrBhBm44lMfrMYMpX7_W4/view?usp=drive_link)
 
-## 🌟 Key Projects
-Note: [Visit my portfolio website for Project Demo](https://its-ajit-folio.netlify.app/)
+- ⚡ Fun fact **"Any novice can write code that a computer can understand. Good programmers write code that humans can understand."**
 
-- 🚀 **Weather Tracker** - A weather tracker application to check current weather conditions and forecasts for any city around the world.
-- 💻 **The Moviesflix** - Movie search website supporting 150+ titles, featuring a 2s average query response time through optimized algorithms.
-- 🌐 **Typing Speed Test** - Typing Speed Test application capable of processing 1,000+ keystrokes per minute with 99.9% accuracy.
-- 🚀 **Quiz Web Application** - This application is ideal for educational purposes, corporate training, or casual knowledge-sharing.
-- 🚀 **Nomzo - An ongoing project** - This app bridges the gap between customers and food providers, ensuring fast, reliable, and delightful dining experiences, whether at home or on the go.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ajit-kamath-82052624a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajit-kamath-82052624a/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/im_ajit28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/im_ajit28/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@ajitinfotech28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ajitinfotech28" height="30" width="40" /></a>
+<a href="https://discord.gg/ajit8389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ajit8389" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Akumar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Akumar" /></a></p><br><br>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajit3643&show_icons=true&locale=en&layout=compact" alt="ajit3643" /></p>
 
-## 🔗 Connect with Me
-[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://its-ajit-folio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajit-kamath-82052624a/)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajit3643&show_icons=true&locale=en" alt="ajit3643" /></p>
 
----
-
-👨‍💻 Looking to collaborate on interesting projects!
-🌟 Always learning, always growing!
-Thanks for visiting! Let's connect and build something awesome together. 🚀
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajit3643&" alt="ajit3643" /></p>
