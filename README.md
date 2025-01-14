@@ -107,15 +107,14 @@
 
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=12960671" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=115556587" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12960671&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @634750802" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12960671&image_size=auto&color_scheme=light" width="771" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=115556587&image_size=auto&color_scheme=dark" width="800" height="auto">
+    <img alt="Dashboard stats of @ajit3643" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=115556587&image_size=auto&color_scheme=light" width="800" height="auto">
   </picture>
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
 ###
 <div align="center">
   <img height="550" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVwZ2NnNXZwcGZ3bzR3bW5lODlydXVxYmdhNHVnOWpvZXdheWZuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYPsBLOYyFqSDte/giphy.gif"  />
