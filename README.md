@@ -1,16 +1,35 @@
-## Hi there 👋
+## Bonjour! I'm Ajit 👋
 
-<!--
-**ajit3643/ajit3643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Developer specializing in crafting scalable web applications with a focus on delivering seamless user experiences.
 
-Here are some ideas to get you started:
+# Here's a bit about me:
+I have completed a Master’s in Computer Applications from Amity University, Noida, and am seeking opportunities to leverage expertise in building intuitive and impactful web solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🔭 **Currently Working On:** Building scalable web applications with React.js and Java + Spring Boot
+- 🌱 **Learning:** Always expanding my skills in cloud technologies and UI/UX design
+- 👯 **Open to Collaborate On:** Exciting full-stack projects and innovative web applications
+- 💬 **Ask Me About:** React.js, Java, Spring Boot, REST APIs, and best practices in web development
+- 🎯 **Goal:** To create impactful software solutions that enhance user experiences
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Backend:** Java, Spring Boot, 
+- **Database:** MySQL, PostgreSQL, MongoDB
+- **Cloud & Tools:** AWS, Docker, Git
+- **Others:** DSA, System Design, OS, Unix
+
+---
+
+## 🖇️ Connect with Me
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ajit-kamath-82052624a/)
+- Portfolio: [Ajit's folio](https://its-ajit-folio.netlify.app/)
+
+---
+
+Thanks for visiting! Let's connect and build something awesome together. 🚀
+
