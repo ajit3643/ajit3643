@@ -25,9 +25,9 @@ I have completed a Master’s in Computer Applications from Amity University, No
 
 ---
 
-## 🖇️ Connect with Me
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ajit-kamath-82052624a/)
-- Portfolio: [Ajit's folio](https://its-ajit-folio.netlify.app/)
+- ## 🔗 Connect with Me
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://its-ajit-folio.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajit-kamath-82052624a/)
 
 ---
 
