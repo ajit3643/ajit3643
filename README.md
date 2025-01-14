@@ -1,5 +1,10 @@
-<h1 align="center">Bonjour! I'm Ajit 👋</h1>
+<div align="center">
+  <img height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW01cmh4ZXBwa3g2ZG43MnBldXo5YnIydHVyMjlxZzhnY3ZvM3M4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yqpVgeandHBEdJrDbQ/giphy.gif"  />
+</div>
+
 ###
+
+<h1 align="center">Bonjour! I'm Ajit 👋</h1>
 
 <p align="left">I'm glad to see you here! I'm Ajit Kumar, a passionate Full-Stack Developer with expertise in building modern web applications. I combine my technical skills with a deep commitment to creating efficient and impactful web solutions.</p>
 
