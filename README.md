@@ -1,4 +1,4 @@
-<h1 align="left">Bonjour! I'm Ajit 👋</h1>
+<h1 align="center">Bonjour! I'm Ajit 👋</h1>
 
 ###
 
@@ -84,6 +84,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
 </div>
 
+###
+<p align="center">Let's code, connect, and create awesome things together!</p>
 
 ###
 <div align="center">
