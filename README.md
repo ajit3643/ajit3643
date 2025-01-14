@@ -1,19 +1,16 @@
 <h1 align="center">Bonjour! I'm Ajit 👋</h1>
-
 ###
 
 <p align="left">I'm glad to see you here! I'm Ajit Kumar, a passionate Full-Stack Developer with expertise in building modern web applications. I combine my technical skills with a deep commitment to creating efficient and impactful web solutions.</p>
+
 
 ###
 
 <h2 align="left">More about me</h2>
 
-###
-
 <p align="left">🔭 I’m currently working on Nomzo - An ongoing project<br><br>🌱 I’m currently learning React.js<br><br>👯 I’m looking to collaborate on Netflix GPT<br><br>🤝 I’m looking for help with Youtube Project <br><br>👨‍💻 All of my projects are available at https://its-ajit-folio.netlify.app/<br><br>💬 Ask me about React, JavaScript, Java, Database<br><br>📫 How to reach me ajitinfotech28@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/125zZh8IdnQPFrBhBm44lMfrMYMpX7_W4/view?usp=drive_link<br><br>⚡ Fun fact "Any novice can write code that a computer can understand. Good programmers write code that humans can understand."</p>
 
 ###
-
 <h2 align="left">Languages and Tools:</h2>
 
 <div align="left">
@@ -82,6 +79,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
+
 </div>
 
 ###
@@ -89,14 +87,14 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajit3643&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajit3643&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajit3643&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajit3643&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 
 ###
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanR0aXE0ODJicDRvcWcxZzZpemY4OWZlMnI2eXptMTE0Zm1pZGMzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif"  />
+  <img height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanR0aXE0ODJicDRvcWcxZzZpemY4OWZlMnI2eXptMTE0Zm1pZGMzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif"  />
 </div>
 
 ###
