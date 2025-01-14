@@ -1,4 +1,4 @@
-# Ajit Kumar Kamat
+# Bonjour! I'm Ajit 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fajit3643%2Fajit3643&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/ajit)](https://twitter.com/ajit)
@@ -31,41 +31,7 @@
 - Leadership
 - Teamwork
 - Creativity
-### ⚙️ Tech Stack
-
-![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=353535) ![Bootstrap](https://img.shields.io/badge/-Spring-05122A?style=flat-square&logo=Spring&color=353535) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=C&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=HTML5&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=CSS3&color=353535)
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajit3643&show_icons=true&locale=en&layout=compact" alt="ajit3643" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=ajit3643&" alt="ajit3643" />
-</div>
-
-
----
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
-
-
-
-
-<div align="center">
-  <img height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW01cmh4ZXBwa3g2ZG43MnBldXo5YnIydHVyMjlxZzhnY3ZvM3M4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yqpVgeandHBEdJrDbQ/giphy.gif"  />
-</div>
-
-###
-
-<h1 align="center">Bonjour! I'm Ajit 👋</h1>
-
-<p align="left">I'm glad to see you here! I'm Ajit Kumar, a passionate Full-Stack Developer with expertise in building modern web applications. I combine my technical skills with a deep commitment to creating efficient and impactful web solutions.</p>
-
-
-###
-
-<h2 align="left">More about me</h2>
-
-<p align="left">🔭 I’m currently working on Nomzo - An ongoing project<br><br>🌱 I’m currently learning React.js<br><br>👯 I’m looking to collaborate on Netflix GPT<br><br>🤝 I’m looking for help with Youtube Project <br><br>👨‍💻 All of my projects are available at https://its-ajit-folio.netlify.app/<br><br>💬 Ask me about React, JavaScript, Java, Database<br><br>📫 How to reach me ajitinfotech28@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/125zZh8IdnQPFrBhBm44lMfrMYMpX7_W4/view?usp=drive_link<br><br>⚡ Fun fact "Any novice can write code that a computer can understand. Good programmers write code that humans can understand."</p>
-
-###
-<h2 align="left">Languages and Tools:</h2>
+### ⚙️ Tech Stack / Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -145,10 +111,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajit3643&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
 ###
 <div align="center">
-  <img height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanR0aXE0ODJicDRvcWcxZzZpemY4OWZlMnI2eXptMTE0Zm1pZGMzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif"  />
+  <img height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW01cmh4ZXBwa3g2ZG43MnBldXo5YnIydHVyMjlxZzhnY3ZvM3M4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yqpVgeandHBEdJrDbQ/giphy.gif"  />
 </div>
 
 ###
