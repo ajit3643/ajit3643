@@ -10,10 +10,12 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fajit3643&labelColor=%2337d67a&countColor=%23555555)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fajit3643)
 
 🚀 I'm glad to see you here! I'm Ajit Kumar, a passionate Full-Stack Developer with expertise in building modern web applications. I combine my technical skills with a deep commitment to creating efficient and impactful web solutions.
-### More about me!
-- 💻 Owner of [**Portfolio**](https://its-ajit-folio.netlify.app/) its Ajit folio. Check it out for more details.
-- 📫 How to reach me: ajitinfotech28@gmail.com
+### 👨‍💻 More about me!
 
+- 💻 Owner of [**Portfolio**](https://its-ajit-folio.netlify.app/) its Ajit folio. Check it out for more details.
+  
+- 📫 How to reach me: ajitinfotech28@gmail.com
+  
 - 🔭 I’m currently working on [**Nomzo - An ongoing project**](https://nomzo.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [**Projects**](https://its-ajit-folio.netlify.app/)
